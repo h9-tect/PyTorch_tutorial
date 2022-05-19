@@ -1,3 +1,6 @@
-# PyTorch_Tensors
-## A Pytorch Tensor is basically the same as a NumPy array. This means it does not know anything about deep learning or computational graphs or gradients and is just a generic n-dimensional array to be used for arbitrary numeric computation. However, the biggest difference between a NumPy array and a PyTorch Tensor is that a PyTorch Tensor can run on either CPU or GPU
+# PyTorch tutorial 
 
+## in this repo I tried to explain how to use PyTorch from Zero to hero 
+
+### in first one I tried to use tensors in PyTorch [here](https://github.com/h9-tect/PyTorch_Projects_tutorial/blob/main/PyTorch_Tensors.ipynb)
+### 2nd Itried to make NN model and train it [here](https://github.com/h9-tect/PyTorch_Projects_tutorial/blob/main/how%20to%20create%20simple%20nn%20model%20by%20PyTorch.ipynb)
